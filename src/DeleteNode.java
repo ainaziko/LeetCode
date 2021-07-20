@@ -1,6 +1,3 @@
-import java.util.Iterator;
-import java.util.LinkedList;
-
 public class DeleteNode {
     public void deleteNode(ListNode node) {
         int tmp = node.val;
